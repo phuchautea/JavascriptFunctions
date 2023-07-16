@@ -6,3 +6,4 @@ vì nó không phải là dấu mà là một ký tự riêng.
 Do đó, nó không thể bị loại bỏ bởi biểu thức chính quy ở trên.
 ```
 - **convertToVNDFormat**: Chuyển đổi các giá trị số sang định dạng tiền tệ VND
+- **isNumeric**: Kiểm tra giá trị có phải là số hay không
